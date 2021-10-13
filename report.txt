@@ -1,3 +1,7 @@
 aaaaaa1330
+<<<<<<< HEAD
 feature1
+=======
+feature2 will confilict with feature1 here
+>>>>>>> feature2
 newfunction1
