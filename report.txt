@@ -2,3 +2,5 @@ aaaaaa1330
 feature1
 feature2 will confilict with feature1 here
 newfunction1
+feature4 will conflict
+feature4 has two lines!
