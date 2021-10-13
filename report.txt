@@ -12,3 +12,5 @@ feature4 has two lines!
 feature5-1
 feature5-2
 feature5-3
+
+feature6
