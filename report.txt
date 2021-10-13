@@ -9,3 +9,6 @@ newfunction1
 feature3 confilicts with feature4
 feature4 will conflict
 feature4 has two lines!
+feature5-1
+feature5-2
+feature5-3
